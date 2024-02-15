@@ -68,7 +68,7 @@ library
     , filepath
     , filepattern
     , monad-logger
-    , mtl                   >=2.3.1 && <2.4
+    , mtl
     , multiwalk
     , relude
     , text
